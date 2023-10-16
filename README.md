@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikotomek
 - 👀 I’m interested in programming football travel and photography 
-- 🌱 I’m currently learning php html css and javacript
+- 🌱 I’m currently learning php html css javacript and c++
 - 💞️ I’m looking to collaborate on Google :D
-- 📫 How to reach me DISCORD: mikotomek#7059
+- 📫 How to reach me DISCORD: mikotomek
